@@ -8,6 +8,7 @@ Explicación del requisito **PCI DSS 1.1.7** y cómo automatizar la revisión se
 
 ### 🧩 Configuraciones automatizadas
 [![Ver en YouTube](https://img.youtube.com/vi/UbMuBYR3zzI/0.jpg)](https://youtu.be/UbMuBYR3zzI)
+
 Generador de configuraciones automaticas por lotes, ideal para migraciones o trabajos de depuración de objetos.
 
 ---
