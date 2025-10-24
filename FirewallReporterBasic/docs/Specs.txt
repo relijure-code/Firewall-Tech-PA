@@ -1,0 +1,18 @@
+Firewall Reporter
+
+Inventario, dependencias y políticas de FortiGate con reporte Excel y controles de seguridad tipo OWASP/ASVS.
+Automatiza extracción, análisis y entrega de evidencias en minutos, con GUI segura y registro de bitácora.
+
+Funcionalidades clave
+
+Inventario de objetos: show firewall address y show firewall addrgrp.
+
+Dependencias: diag sys cmdb refcnt + show firewall.address/<name> y show firewall.addrgrp/<name>.
+
+Políticas: show firewall policy en modo rápido (grep) o modo completo.
+
+Reporte Excel: genera una hoja “Referencias Consolidado” con fórmula que señala ANY-TO-ANY para detección inmediata.
+
+Aviso
+
+Esta herramienta no modifica la configuración del firewall; realiza lectura y reporte. Cumplir con políticas internas y regulaciones aplicables sigue siendo responsabilidad del usuario.
