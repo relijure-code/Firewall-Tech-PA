@@ -1,4 +1,4 @@
-# 🔥 Firewall Reporter Hardened v4.6
+# 🔥 Firewall Reporter Hardened v4.6 (versión con donación)
 
 **Inventario, dependencias y políticas de FortiGate con reporte Excel y controles OWASP/ASVS.**  
 Automatiza la extracción, análisis y entrega de evidencias desde FortiGate con una GUI segura y trazable.
