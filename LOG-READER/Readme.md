@@ -14,11 +14,32 @@ Filtra TLDs válidos (.com, .net, .org, .io, etc.).
 
 Genera un archivo resultado_agrupado.txt con los dominios únicos ordenados.
 
-💡 Uso
+🧠 Uso
 
-Coloca tu archivo de log (.log, .txt o .json) en el mismo directorio, nómbralo datos.log, y ejecuta:
+Ir al firewall FortiGate
+
+Accede a la consola del equipo. 
+
+![Ejecución del script](https://github.com/relijure-code/Firewall-Tech-PA/blob/a793b4eabe6a543046ac685f7651e73d3686a557/LOG-READER/images/descarga%20de%20logs.png)
+
+Descarga el archivo de log que desees analizar (por ejemplo: traffic.log, utm.log o webfilter.log).
+
+Colocar el log en la carpeta del script
+
+Guarda el archivo en la misma carpeta donde está el script log_reader.py.
+
+Renómbralo como datos.log (o ajusta el nombre dentro del script si prefieres otro).
+
+Ejecutar el script
 
 python log_reader.py
 
 
-El resultado se guardará en resultado_agrupado.txt.
+Resultado
+
+Se generará automáticamente el archivo:
+
+resultado_agrupado.txt
+
+
+con todos los dominios únicos encontrados, ordenados alfabéticamente.
