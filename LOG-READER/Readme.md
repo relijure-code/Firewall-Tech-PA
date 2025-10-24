@@ -40,6 +40,7 @@ Resultado
 Se generará automáticamente el archivo:
 
 resultado_agrupado.txt
+![Resultado](https://github.com/relijure-code/Firewall-Tech-PA/blob/7715399fd0395fd2e4443732c4277530abf47c2f/LOG-READER/images/lista-extraida.png)
 
 
 con todos los dominios únicos encontrados, ordenados alfabéticamente.
