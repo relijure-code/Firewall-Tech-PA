@@ -68,7 +68,7 @@ Automatiza la extracción, análisis y entrega de evidencias desde FortiGate con
 
 
 💡 **Versión base (GitHub)**  
-👉 [Ver código fuente](https://github.com/relijure-code-patch-1/Firewall-Tech-PA/FirewallReporter)
+👉 [Ver código fuente](https://github.com/relijure-code-patch-1/FirewallReporterBasic/src/FirewallReporter.py)
 
 ---
 
