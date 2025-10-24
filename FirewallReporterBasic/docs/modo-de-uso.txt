@@ -1,0 +1,27 @@
+🌟 Características destacadas
+🧠 Inventario inteligente
+Extrae y analiza automáticamente:
+•	show firewall address
+•	show firewall addrgrp
+•	Dependencias con diag sys cmdb refcnt
+•	Políticas (show firewall policy) en modo rápido o completo.
+📊 Reporte Excel avanzado
+•	Crea la hoja “Referencias Consolidado”.
+•	Marca ANY-TO-ANY con fórmula automática.
+•	Listo para auditorías o revisiones de cumplimiento.
+________________________________________
+⚙️ Instrucciones de uso
+1️⃣ Conecta al FortiGate
+Introduce IP, puerto (opcional), credenciales o clave SSH.
+La app validará automáticamente la información.
+3️⃣ Ejecuta el análisis
+Selecciona Inventario rápido o completo según tu necesidad.
+El programa consultará objetos, dependencias y políticas.
+4️⃣ Genera el reporte
+El Excel se guardará en la carpeta.
+
+💡 Ideal para
+•	Auditores y Oficiales de Seguridad.
+•	Administradores FortiGate.
+•	Equipos de Cumplimiento y Riesgo.
+•	Consultores OWASP / ISO / PCI DSS.
