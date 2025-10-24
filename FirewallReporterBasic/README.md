@@ -64,13 +64,11 @@ Automatiza la extracción, análisis y entrega de evidencias desde FortiGate con
 ## 📥 Descarga
 
 🔗 **Versión completa v4.6 (.py)**  
-👉 [Descargar en Gumroad](https://gumroad.com/reinaldojuarez)  
+👉 [Descargar en Gumroad](https://relijure.gumroad.com/l/fortigate-script-reporter)  
 
-📘 **Documentación / Guía rápida (PDF)**  
-👉 [Ver en línea](https://gum.co/firewallreporterhardened-doc)
 
 💡 **Versión base (GitHub)**  
-👉 [Ver código fuente](https://github.com/tuusuario/FirewallReporterHardened)
+👉 [Ver código fuente](https://github.com/relijure-code-patch-1/Firewall-Tech-PA/FirewallReporter)
 
 ---
 
