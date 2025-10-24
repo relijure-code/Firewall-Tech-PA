@@ -24,3 +24,8 @@ Generador de configuraciones automaticas por lotes, ideal para migraciones o tra
 
 🎯 **Suscríbete al canal para más contenido sobre:**
 Automatización de procesos en un firewall.
+👉 [YTChannel](https://www.youtube.com/@FirewallTechPA)
+
+📩 Contacto directo
+🔗 [LinkedIn](https://www.linkedin.com/in/reinaldo-applied-engineering/)
+✉️ Email: relijure@gmail.com
