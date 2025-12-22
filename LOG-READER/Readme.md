@@ -44,3 +44,31 @@ resultado_agrupado.txt
 
 
 con todos los dominios únicos encontrados, ordenados alfabéticamente.
+
+English
+🧩 Forti Log Domain Extractor
+
+Python script to read and analyze FortiGate logs or `.txt` / `.json` files, identifying and grouping valid domains and subdomains found within the records.
+
+Ideal for traffic analysis, security audits, and destination classification in network logs.
+
+⚙️ Features
+
+- Extracts domains from URLs and raw text using regular expressions.
+- Supports unstructured logs (FortiGate output, JSON, TXT).
+- Filters valid TLDs (`.com`, `.net`, `.org`, `.io`, etc.).
+- Generates an output file `grouped_results.txt` containing unique, sorted domains.
+
+🧠 Usage
+
+### 1) Export the log from FortiGate
+- Access the FortiGate console/CLI.
+- Download the log you want to analyze (e.g., `traffic.log`, `utm.log`, or `webfilter.log`).
+
+### 2) Place the log next to the script
+- Save the log file in the same folder as `log_reader.py`.
+- Rename it to `data.log` (or update the filename inside the script if you prefer).
+
+### 3) Run the script
+```bash
+python log_reader.py
