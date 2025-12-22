@@ -79,3 +79,86 @@ No modifica configuraciones del firewall.
 Cumple con prácticas OWASP/ASVS y se recomienda su uso bajo políticas corporativas.
 
 © 2025 Reinaldo Juárez — *Firewall Reporter Hardened v4.6*
+
+English
+# 🔥 Firewall Reporter Hardened v4.6 (donationware)
+
+**FortiGate inventory, dependency mapping, and policy reporting with Excel output and OWASP/ASVS-aligned controls.**  
+Automate the extraction, analysis, and delivery of audit evidence from FortiGate using a secure, traceable GUI.
+
+---
+
+## 🚀 Key features
+
+- **Object inventory:** `show firewall address`, `show firewall addrgrp`
+- **Dependency mapping:** `diag sys cmdb refcnt`, `show firewall.address/<name>`
+- **Policies:** `show firewall policy` (quick mode or full mode)
+- **Excel report:** **“References (Consolidated)”** sheet with a formula to detect **ANY-TO-ANY**
+- **Results output:** auto path `%APPDATA%\MiAppBin\results\YYYYMMDD_HHMMSS`
+- **Audit log:** `logs\bitacora_ejecuciones.log` with timestamp, host, and output path
+- **TOFU popup:** **SHA256** fingerprint + host key registration
+- **Secure UX:** IP/port validation, clipboard cleanup, copy/paste blocking
+- **Compatibility:** **FortiOS** (interactive shell / PTY)
+- **Authentication:** SSH key (Ed25519/RSA) + passphrase, password, or OTP
+
+---
+
+## 🧩 Requirements
+
+- **OS:** Windows 10/11 (x64)  
+- **Runtime:** Python 3.10+  
+- **Connectivity:** SSH access to FortiGate  
+
+---
+
+## 📊 Outputs and logs
+
+| Type | Path |
+|------|------|
+| Results | `%APPDATA%\MiAppBin\results\YYYYMMDD_HHMMSS\` |
+| Logs | `%APPDATA%\MiAppBin\logs\bitacora_ejecuciones.log` |
+| Host keys (APP) | `%APPDATA%\MiAppBin\cfg\known_hosts` |
+
+---
+
+## 🆕 What’s new in v4.6
+
+- **TOFU** popup with SHA256 fingerprint  
+- **Single-run lock** + **progressive backoff**  
+- **Improved Excel report** with ANY-TO-ANY detection formula  
+- Audit log now includes host and output path  
+- Improved FortiOS compatibility (PTY)
+
+---
+
+## 🛡️ OWASP / ASVS mapping
+
+| Area | Control applied |
+|------|------------------|
+| V2 – Authentication | Credential protection, OTP, copy/paste blocking |
+| V4 – Access control | Single session (single-run lock) |
+| V5 – Input validation | IP/port validation |
+| V7 – Error handling | Safe logs without secrets |
+| V9 – Communications | TOFU verification + SHA256 |
+| V14 – Hardening | Isolated host keys, cleanup and rotation |
+
+---
+
+## 📥 Download
+
+🔗 **Full version v4.6 (.py)**  
+👉 [Download on Gumroad](https://relijure.gumroad.com/l/fortigate-script-reporter)  
+
+💡 **Base version (GitHub)**  
+👉 [View source code](https://github.com/relijure-code/Firewall-Tech-PA/blob/bb4f415e08f4f7aca8a66ba2ccab25de1ee24144/FirewallReporterBasic/src/FirewallReporter.py)
+
+---
+
+## ⚖️ License
+
+For educational and internal auditing use only.  
+Does not modify firewall configurations.  
+OWASP/ASVS-aligned; recommended to use under corporate policies.
+
+© 2025 Reinaldo Juárez — *Firewall Reporter Hardened v4.6*
+
