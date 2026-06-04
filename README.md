@@ -7,7 +7,7 @@ Repositorio enfocado en proyectos de automatización, con scripts y herramientas
 Explicación del requisito **PCI DSS 1.1.7** y cómo automatizar la revisión semestral del firewall.
 
 🔗 **Versión completa v4.6 (.py)**  
-👉 [Descargar en Gumroad](https://relijure.gumroad.com/l/fortigate-script-reporter)  
+[Obtener en](https://store.electronicajuarez.com/l/fortigate-script-reporter)
 
 
 💡 **Versión base (GitHub)**  
@@ -16,7 +16,6 @@ Explicación del requisito **PCI DSS 1.1.7** y cómo automatizar la revisión se
 ### 🧩 Configuraciones automatizadas
 [![Ver en YouTube](https://img.youtube.com/vi/UbMuBYR3zzI/0.jpg)](https://youtu.be/UbMuBYR3zzI)
 
-👉 [Demo](https://spartan07.pythonanywhere.com/)
 
 Generador de configuraciones automaticas por lotes, ideal para migraciones o trabajos de depuración de objetos.
 
@@ -41,7 +40,7 @@ A collection of automation projects and utilities by Reinaldo Juárez, focused o
 Learn what **PCI DSS 1.1.7** is about and how to automate a semiannual firewall review in a repeatable way.
 
 🔗 **Full version v4.6 (.py)**  
-👉 [Get it on Gumroad](https://relijure.gumroad.com/l/fortigate-script-reporter)
+👉 [Get it on Gumroad](https://store.electronicajuarez.com/l/fortigate-script-reporter)
 
 💡 **Base version (GitHub)**  
 👉 [Browse the source](https://github.com/relijure-code/Firewall-Tech-PA/blob/bb4f415e08f4f7aca8a66ba2ccab25de1ee24144/FirewallReporterBasic/src/FirewallReporter.py)
@@ -50,7 +49,6 @@ Learn what **PCI DSS 1.1.7** is about and how to automate a semiannual firewall 
 
 [![Watch on YouTube](https://img.youtube.com/vi/UbMuBYR3zzI/0.jpg)](https://youtu.be/UbMuBYR3zzI)
 
-👉 [Try the demo](https://spartan07.pythonanywhere.com/)
 
 Generates batch configuration snippets, great for migrations and object cleanup.
 
