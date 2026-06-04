@@ -1,6 +1,6 @@
 [![Ver demo de la versión completa en YouTube](https://img.youtube.com/vi/x-UUYQJ_dWk/maxresdefault.jpg)](https://www.youtube.com/watch?v=x-UUYQJ_dWk)
 
-# ✅ [Download Full Version(Visa accepted)](https://relijure.gumroad.com/l/xqeslx)
+# ✅ [Download Full Version(Visa accepted)](https://store.electronicajuarez.com/l/xqeslx?layout=profile)
 
 ## DDoS Whois Reporter (Base)
 Herramienta ligera para **extraer IPs relacionadas a eventos de DDoS / anomalías / cuarentena** desde un **FortiGate** vía **SSH automatizado con Plink (PuTTY)** y exportarlas a un **TXT** listo para revisión o bloqueo.
@@ -70,7 +70,7 @@ La edición Plus incluye seguridad y UX reforzados (OWASP/ASVS), gestión de lla
 
 ## 🇺🇸 English
 
-# ✅ [Download Full Version(Visa accepted)](https://relijure.gumroad.com/l/xqeslx)
+# ✅ [Download Full Version(Visa accepted)](https://store.electronicajuarez.com/l/xqeslx?layout=profile)
 
 ```md
 # DDoS Whois Reporter (Base)
