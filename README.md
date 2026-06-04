@@ -15,6 +15,8 @@ Explicación del requisito **PCI DSS 1.1.7** y cómo automatizar la revisión se
 
 ### 🧩 Configuraciones automatizadas
 [![Ver en YouTube](https://img.youtube.com/vi/UbMuBYR3zzI/0.jpg)](https://youtu.be/UbMuBYR3zzI)
+[Obtener en tienda](https://store.electronicajuarez.com/l/etdmdh?layout=profile)
+
 
 
 Generador de configuraciones automaticas por lotes, ideal para migraciones o trabajos de depuración de objetos.
@@ -48,6 +50,7 @@ Learn what **PCI DSS 1.1.7** is about and how to automate a semiannual firewall 
 ## 🧩 Automated configuration generator
 
 [![Watch on YouTube](https://img.youtube.com/vi/UbMuBYR3zzI/0.jpg)](https://youtu.be/UbMuBYR3zzI)
+[Get it on store](https://store.electronicajuarez.com/l/etdmdh?layout=profile)
 
 
 Generates batch configuration snippets, great for migrations and object cleanup.
