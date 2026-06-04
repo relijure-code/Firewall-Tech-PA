@@ -64,7 +64,7 @@ Automatiza la extracción, análisis y entrega de evidencias desde FortiGate con
 ## 📥 Descarga
 
 🔗 **Versión completa v4.6 (.py)**  
-👉 [Descargar en Gumroad](https://relijure.gumroad.com/l/fortigate-script-reporter)  
+👉 [Descargar en tienda](https://store.electronicajuarez.com/l/fortigate-script-reporter) 
 
 
 💡 **Versión base (GitHub)**  
@@ -147,7 +147,7 @@ Automate the extraction, analysis, and delivery of audit evidence from FortiGate
 ## 📥 Download
 
 🔗 **Full version v4.6 (.py)**  
-👉 [Download on Gumroad](https://relijure.gumroad.com/l/fortigate-script-reporter)  
+👉 [Get it on Gumroad](https://store.electronicajuarez.com/l/fortigate-script-reporter)  
 
 💡 **Base version (GitHub)**  
 👉 [View source code](https://github.com/relijure-code/Firewall-Tech-PA/blob/bb4f415e08f4f7aca8a66ba2ccab25de1ee24144/FirewallReporterBasic/src/FirewallReporter.py)
